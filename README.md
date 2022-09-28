@@ -23,3 +23,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
+![2022-09-27 21-15-28](https://user-images.githubusercontent.com/81199017/192666309-8993af34-4c7e-42ec-9ca9-492c4ee883a1.gif)
